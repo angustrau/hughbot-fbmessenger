@@ -1,0 +1,23 @@
+{
+  "name": "hughbot-fbmessenger",
+  "version": "1.0.0",
+  "description": "An adapter for Hughbot that allows communication with Facebook Messenger",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angustrau/hughbot-fbmessenger.git"
+  },
+  "keywords": [
+    "hughbot",
+    "hughbot-adapter"
+  ],
+  "author": "Angus Trau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angustrau/hughbot-fbmessenger/issues"
+  },
+  "homepage": "https://github.com/angustrau/hughbot-fbmessenger#readme"
+}
